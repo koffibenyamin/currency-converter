@@ -37,9 +37,8 @@ http://127.0.0.1:5173
 
 
 ## 📸 Screenshots
-- Landing Page:
-![mon_image](screenshot/033045.png)
 
+![mon_image](screenshot/033045.png)
 
 ## 📄 License
 
