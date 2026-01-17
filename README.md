@@ -23,6 +23,7 @@ cd currency-converter
 
 # Install dependencies
 npm install
+```
 
 ## ▶️ Running the Application
 
@@ -36,7 +37,7 @@ http://127.0.0.1:5173
 ```
 
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![mon_image](screenshot/033045.png)
 
