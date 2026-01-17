@@ -1,16 +1,46 @@
-# React + Vite
+# 💱 Currency Converter – React.js App
+A simple and responsive Currency Converter built with React.js that allows users to convert amounts between different currencies using real-time exchange rates. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- Convert between multiple international currencies
+- Real-time exchange rates
+- User-friendly and responsive UI
+- Fast and lightweight React application
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- React.js
+- avaScript (ES6+)
+- Exchange Rate API (ExchangeRate-API)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Installation
 
-## React Compiler
+```
+# Clone the repository
+git clone https://github.com/koffibenyamin/currency-converter.git
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Navigate into the project
+cd currency-converter
 
-## Expanding the ESLint configuration
+# Install dependencies
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ▶️ Running the Application
+
+```
+npm run dev
+```
+The app will be available at:
+
+```
+http://127.0.0.1:5173
+```
+
+
+## 📸 Screenshots
+- Landing Page:
+![mon_image](screenshot/033045.png)
+
+
+## 📄 License
+
+This project is open-sourced under the **MIT license**.
